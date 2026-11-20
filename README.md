@@ -16,6 +16,19 @@ A repository containing Python laboratory practical programs, exercises, and min
 | 8 | `08_attendance_report.py` | Records attendance (Present/Absent) and computes total counts and attendance percentage. |
 | 9 | `09_log_file_error_counter.py` | Reads lines from `log.txt`, counts lines containing the keyword `"Error"`, and handles missing file errors. |
 | 10 | `10_student_data_manager.py` | Menu-driven file manager storing and retrieving student records from `students.txt`. |
+| 11 | `11_payroll_csv_generator.py` | Collects employee details and generates a payroll calculation spreadsheet (`payroll.csv`). |
+| 12 | `12_log_json_analyzer.py` | Parses and summarizes log levels (`INFO`, `WARNING`, `ERROR`) from a structured `logs.json` file. |
+| 13 | `13_dice_simulator.py` | Object-oriented dice simulator with repeat play options using `random`. |
+| 14 | `14_sales_dashboard.py` | Data analytics dashboard loading retail sales data (`sales.csv`) and visualizing trends using pandas & matplotlib. |
+
+---
+
+## Prerequisites
+For programs 1 to 13, standard Python 3 is sufficient.
+For `14_sales_dashboard.py`, install the required data analysis libraries:
+```bash
+pip install pandas matplotlib
+```
 
 ---
 
@@ -38,6 +51,10 @@ A repository containing Python laboratory practical programs, exercises, and min
    python 08_attendance_report.py
    python 09_log_file_error_counter.py
    python 10_student_data_manager.py
+   python 11_payroll_csv_generator.py
+   python 12_log_json_analyzer.py
+   python 13_dice_simulator.py
+   python 14_sales_dashboard.py
    ```
 
 ---

@@ -1,0 +1,27 @@
+[
+  {
+    "timestamp": "2026-11-20 10:00:00",
+    "level": "INFO",
+    "message": "Application started successfully"
+  },
+  {
+    "timestamp": "2026-11-20 10:05:23",
+    "level": "WARNING",
+    "message": "Memory utilization high"
+  },
+  {
+    "timestamp": "2026-11-20 10:10:45",
+    "level": "ERROR",
+    "message": "Database query execution failed"
+  },
+  {
+    "timestamp": "2026-11-20 10:15:00",
+    "level": "INFO",
+    "message": "Cache refreshed successfully"
+  },
+  {
+    "timestamp": "2026-11-20 10:20:12",
+    "level": "ERROR",
+    "message": "Connection timed out"
+  }
+]
